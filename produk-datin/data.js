@@ -1,3 +1,4 @@
-data = {
-    ["nama produk": "", ],
+{
+    "nama produk": "Laporan IPK",
+    "link": ""
 }
